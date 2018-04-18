@@ -1,0 +1,9 @@
+C:\AutomateTools\ExperimentListDB\ExperimentFromDB\bin\Release\ExperimentFromDB.exe.config
+C:\AutomateTools\ExperimentListDB\ExperimentFromDB\bin\Release\ExperimentFromDB.exe
+C:\AutomateTools\ExperimentListDB\ExperimentFromDB\bin\Release\ExperimentFromDB.pdb
+C:\AutomateTools\ExperimentListDB\ExperimentFromDB\bin\Release\Agoda.Automata.Utils.DB.dll
+C:\AutomateTools\ExperimentListDB\ExperimentFromDB\bin\Release\Newtonsoft.Json.dll
+C:\AutomateTools\ExperimentListDB\ExperimentFromDB\bin\Release\Newtonsoft.Json.xml
+C:\AutomateTools\ExperimentListDB\ExperimentFromDB\obj\Release\ExperimentFromDB.exe
+C:\AutomateTools\ExperimentListDB\ExperimentFromDB\obj\Release\ExperimentFromDB.pdb
+C:\AutomateTools\ExperimentListDB\ExperimentFromDB\obj\Release\ExperimentFromDB.csprojResolveAssemblyReference.cache

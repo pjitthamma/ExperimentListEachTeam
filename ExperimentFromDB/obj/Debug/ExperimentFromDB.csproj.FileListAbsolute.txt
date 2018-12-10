@@ -24,3 +24,9 @@ C:\AutomateTools\MINE\ExperimentListDB\ExperimentFromDB\bin\Debug\Agoda.Automata
 C:\AutomateTools\MINE\ExperimentListDB\ExperimentFromDB\bin\Debug\Newtonsoft.Json.dll
 C:\AutomateTools\MINE\ExperimentListDB\ExperimentFromDB\bin\Debug\Newtonsoft.Json.xml
 C:\AutomateTools\MINE\ExperimentListDB\ExperimentFromDB\obj\Debug\ExperimentFromDB.csprojResolveAssemblyReference.cache
+C:\AutomateTools\MINE\ExperimentListDB (DONE)\ExperimentFromDB\bin\Debug\ExperimentFromDB.exe.config
+C:\AutomateTools\MINE\ExperimentListDB (DONE)\ExperimentFromDB\obj\Debug\ExperimentFromDB.exe
+C:\AutomateTools\MINE\ExperimentListDB (DONE)\ExperimentFromDB\obj\Debug\ExperimentFromDB.pdb
+C:\GIT\ExperimentListDB (DONE)\ExperimentFromDB\bin\Debug\ExperimentFromDB.exe.config
+C:\GIT\ExperimentListDB (DONE)\ExperimentFromDB\obj\Debug\ExperimentFromDB.exe
+C:\GIT\ExperimentListDB (DONE)\ExperimentFromDB\obj\Debug\ExperimentFromDB.pdb
